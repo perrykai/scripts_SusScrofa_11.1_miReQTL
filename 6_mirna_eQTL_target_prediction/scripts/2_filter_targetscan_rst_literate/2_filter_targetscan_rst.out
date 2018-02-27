@@ -1,0 +1,121 @@
+
+
+processing file: 2_filter_targetscan_rst.Rmd
+  |                                                                         |                                                                 |   0%  |                                                                         |...                                                              |   4%
+  ordinary text without R code
+
+  |                                                                         |......                                                           |   9%
+label: unnamed-chunk-1
+  |                                                                         |........                                                         |  13%
+  ordinary text without R code
+
+  |                                                                         |...........                                                      |  17%
+label: unnamed-chunk-2
+  |                                                                         |..............                                                   |  22%
+  ordinary text without R code
+
+  |                                                                         |.................                                                |  26%
+label: unnamed-chunk-3
+  |                                                                         |....................                                             |  30%
+  ordinary text without R code
+
+  |                                                                         |.......................                                          |  35%
+label: unnamed-chunk-4
+  |                                                                         |.........................                                        |  39%
+  ordinary text without R code
+
+  |                                                                         |............................                                     |  43%
+label: unnamed-chunk-5
+  |                                                                         |...............................                                  |  48%
+  ordinary text without R code
+
+  |                                                                         |..................................                               |  52%
+label: unnamed-chunk-6
+  |                                                                         |.....................................                            |  57%
+  ordinary text without R code
+
+  |                                                                         |........................................                         |  61%
+label: unnamed-chunk-7
+  |                                                                         |..........................................                       |  65%
+  ordinary text without R code
+
+  |                                                                         |.............................................                    |  70%
+label: unnamed-chunk-8
+  |                                                                         |................................................                 |  74%
+  ordinary text without R code
+
+  |                                                                         |...................................................              |  78%
+label: unnamed-chunk-9
+  |                                                                         |......................................................           |  83%
+  ordinary text without R code
+
+  |                                                                         |.........................................................        |  87%
+label: unnamed-chunk-10
+  |                                                                         |...........................................................      |  91%
+  ordinary text without R code
+
+  |                                                                         |..............................................................   |  96%
+label: unnamed-chunk-11
+  |                                                                         |.................................................................| 100%
+  ordinary text without R code
+
+
+output file: 2_filter_targetscan_rst.md
+
+Job Id: 50519135.mgr-04.i
+    Job_Name = 2_filter_targetscan_rst
+    Job_Owner = perrykai@dev-intel16.i
+    job_state = R
+    queue = main
+    server = mgr-04.i
+    Checkpoint = u
+    ctime = Fri Dec 15 11:29:24 2017
+    Error_Path = dev-intel16:/mnt/research/ernstc_lab/miRNA_eQTL_Sscrofa11/6_m
+	irna_eQTL_target_prediction/scripts/2_filter_targetscan_rst_literate/2
+	_filter_targetscan_rst.out
+    exec_host = css-007/3
+    Hold_Types = n
+    Join_Path = oe
+    Keep_Files = n
+    Mail_Points = abe
+    mtime = Fri Dec 15 11:29:38 2017
+    Output_Path = dev-intel16:/mnt/research/ernstc_lab/miRNA_eQTL_Sscrofa11/6_
+	mirna_eQTL_target_prediction/scripts/2_filter_targetscan_rst_literate/
+	2_filter_targetscan_rst.out
+    Priority = 0
+    qtime = Fri Dec 15 11:29:24 2017
+    Rerunable = False
+    Resource_List.nodes = 1:ppn=1:intel14
+    Resource_List.walltime = 00:10:00
+    Resource_List.mem = 2gb
+    Resource_List.nodect = 1
+    session_id = 60461
+    Variable_List = PBS_O_QUEUE=main,PBS_O_HOME=/mnt/home/perrykai,
+	PBS_O_LOGNAME=perrykai,
+	PBS_O_PATH=/opt/software/R/3.1.0--GCC-4.4.5/bin:/opt/software/powerto
+	ols/bin:/opt/software/Stata/15.0/SE:/opt/software/MATLAB/R2014a/bin:/o
+	pt/software/Python/2.7.2--GCC-4.4.5/bin:/opt/software/cmake/2.8.5--GCC
+	-4.4.5/bin:/opt/software/OpenMPI/1.4.3--GCC-4.4.5/bin:/usr/lib64/qt-3.
+	3/bin:/opt/software/lmod/bin:/opt/moab/bin:/usr/local/bin:/bin:/usr/bi
+	n:/mnt/home/perrykai/gitclones/spin-my-script:/usr/local/sbin:/usr/sbi
+	n:/sbin:/usr/local/hpcc/bin:/opt/ibutils/bin,
+	PBS_O_MAIL=/var/spool/mail/perrykai,PBS_O_SHELL=/bin/bash,
+	PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/mnt/research/ernstc_lab/miRNA_eQTL_Sscrofa11/6_mirna_e
+	QTL_target_prediction/scripts,PBS_O_HOST=dev-intel16.i,
+	PBS_O_SERVER=mgr-04
+    euser = perrykai
+    egroup = gene-expression
+    queue_type = E
+    etime = Fri Dec 15 11:29:24 2017
+    submit_args = base.sh
+    start_time = Fri Dec 15 11:29:38 2017
+    Walltime.Remaining = 562
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = dev-intel16.i
+    init_work_dir = /mnt/research/ernstc_lab/miRNA_eQTL_Sscrofa11/6_mirna_eQTL
+	_target_prediction/scripts
+    request_version = 1
+
